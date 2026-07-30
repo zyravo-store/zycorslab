@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "product": "ZyCORS Lab",
+  "version": "1.0.0",
+  "build": "2607291817",
+  "displayVersion": "Version 1.0.0 (2607291817)",
+  "tag": "v1.0.0",
+  "releaseTitle": "ZyCORS Lab 1.0.0 (2607291817)",
+  "website": "https://zycorslab.zyravo.store",
+  "supportEmail": "support@zyravo.store",
+  "feedbackEmail": "feedback@zyravo.store",
+  "issuesUrl": "https://github.com/zyravo-store/zycorslab/issues",
+  "wikiUrl": "https://github.com/zyravo-store/zycorslab/wiki",
+  "releaseUrl": "https://github.com/zyravo-store/zycorslab/releases/tag/v1.0.0",
+  "updates": {
+    "en": [
+      "Initial stable release of ZyCORS Lab."
+    ],
+    "zh-CN": [
+      "ZyCORS Lab 首个稳定版本。"
+    ]
+  },
+  "features": {
+    "en": [
+      "Test cross-origin requests and inspect preflight behavior.",
+      "Explain common CORS response and permission failures.",
+      "Manage temporary, focused debugging rules with clear status controls."
+    ],
+    "zh-CN": [
+      "测试跨域请求并检查预检请求行为。",
+      "解释常见的 CORS 响应与权限错误。",
+      "通过清晰的状态控制管理临时调试规则。"
+    ]
+  },
+  "packages": {
+    "chrome": {
+      "file": "zycorslab-chrome-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zycorslab/releases/download/v1.0.0/zycorslab-chrome-1.0.0.zip"
+    },
+    "edge": {
+      "file": "zycorslab-edge-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zycorslab/releases/download/v1.0.0/zycorslab-edge-1.0.0.zip"
+    },
+    "firefox": {
+      "file": "zycorslab-firefox-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zycorslab/releases/download/v1.0.0/zycorslab-firefox-1.0.0.zip"
+    },
+    "windows": {
+      "file": "zycorslab-windows-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zycorslab/releases/download/v1.0.0/zycorslab-windows-1.0.0.zip"
+    },
+    "linux": {
+      "file": "zycorslab-linux-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zycorslab/releases/download/v1.0.0/zycorslab-linux-1.0.0.zip"
+    },
+    "macos-pkg": {
+      "file": "zycorslab-macos-1.0.0.pkg",
+      "url": "https://github.com/zyravo-store/zycorslab/releases/download/v1.0.0/zycorslab-macos-1.0.0.pkg"
+    },
+    "macos-dmg": {
+      "file": "zycorslab-macos-1.0.0.dmg",
+      "url": "https://github.com/zyravo-store/zycorslab/releases/download/v1.0.0/zycorslab-macos-1.0.0.dmg"
+    },
+    "checksums": {
+      "file": "zycorslab-1.0.0-sha256.txt",
+      "url": "https://github.com/zyravo-store/zycorslab/releases/download/v1.0.0/zycorslab-1.0.0-sha256.txt"
+    }
+  }
+}
